@@ -1,5 +1,5 @@
 # CeasarToExcel
-My personal project:
+My personal Project:
 
 Converts data from Ceasar Pipe Stress software's Excel output to useable Excel data for further Structural analyse.
 
